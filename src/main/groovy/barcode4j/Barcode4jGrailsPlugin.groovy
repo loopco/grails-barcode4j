@@ -1,3 +1,5 @@
+package barcode4j
+
 /*
  * Copyright 2010 Luke Daley
  *
